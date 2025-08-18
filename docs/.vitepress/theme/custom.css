@@ -1,0 +1,204 @@
+/* Social Media Buttons */
+.social-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 20px 0;
+  justify-content: flex-start;
+}
+
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.social-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.social-btn.astar {
+  background-color: #0066cc;
+  color: white;
+}
+
+.social-btn.astar:hover {
+  background-color: #0052a3;
+}
+
+.social-btn.linkedin {
+  background-color: #0077b5;
+  color: white;
+}
+
+.social-btn.linkedin:hover {
+  background-color: #005885;
+}
+
+.social-btn.researchgate {
+  background-color: #00d4aa;
+  color: white;
+}
+
+.social-btn.researchgate:hover {
+  background-color: #00b894;
+}
+
+.social-btn.scholar {
+  background-color: #4285f4;
+  color: white;
+}
+
+.social-btn.scholar:hover {
+  background-color: #3367d6;
+}
+
+.social-btn.orcid {
+  background-color: #a6ce39;
+  color: white;
+}
+
+.social-btn.orcid:hover {
+  background-color: #8fb82a;
+}
+
+/* Team Member Grid - Facet Wrap Style */
+.team-member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin: 24px 0;
+}
+
+.team-member {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 12px;
+  padding: 20px;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.team-member:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border-color: var(--vp-c-brand);
+}
+
+.member-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 16px;
+  border: 3px solid var(--vp-c-border);
+  transition: border-color 0.3s ease;
+}
+
+.team-member:hover .member-photo {
+  border-color: var(--vp-c-brand);
+}
+
+.member-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.member-info h4 {
+  margin: 0 0 8px 0;
+  color: var(--vp-c-text-1);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.member-title {
+  color: var(--vp-c-brand);
+  font-weight: 500;
+  font-size: 14px;
+  margin: 0 0 12px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.member-description {
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .social-buttons {
+    justify-content: center;
+    gap: 8px;
+  }
+  
+  .social-btn {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+  
+  .team-member-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px;
+  }
+  
+  .team-member {
+    padding: 16px;
+  }
+  
+  .member-photo {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+  .social-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .social-btn {
+    width: 100%;
+    max-width: 200px;
+    justify-content: center;
+  }
+  
+  .team-member-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  
+  .member-photo {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .member-info h4 {
+    font-size: 16px;
+  }
+}
+
+/* Dark mode adjustments */
+.dark .team-member {
+  background: var(--vp-c-bg-soft);
+  border-color: var(--vp-c-border);
+}
+
+.dark .team-member:hover {
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
