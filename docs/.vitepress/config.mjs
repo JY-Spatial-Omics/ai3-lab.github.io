@@ -13,7 +13,10 @@ export default {
           { text: 'Home', link: '/' },
           { text: 'About Joe', link: '/about-joe' },
           { text: 'Team', link: '/team' },
-          { text: 'Research', link: '/research' }
+          { text: 'Research', link: '/research' },
+          { text: 'News', link: '/news' },
+          { text: 'Platforms', link: '/platforms' },
+          { text: 'Contact', link: '/contact' }
         ],
         sidebar: [
           {
@@ -22,7 +25,10 @@ export default {
               { text: 'Home', link: '/' },
               { text: 'About Joe', link: '/about-joe' },
               { text: 'Team', link: '/team' },
-              { text: 'Research', link: '/research' }
+              { text: 'Research', link: '/research' },
+              { text: 'News', link: '/news' },
+              { text: 'Platforms', link: '/platforms' },
+              { text: 'Contact', link: '/contact' }
             ]
           }
         ]
@@ -38,7 +44,10 @@ export default {
           { text: '首页', link: '/zh-cn/' },
           { text: '关于杨宝诚', link: '/zh-cn/about-joe' },
           { text: '团队', link: '/zh-cn/team' },
-          { text: '研究', link: '/zh-cn/research' }
+          { text: '研究', link: '/zh-cn/research' },
+          { text: '新闻', link: '/zh-cn/news' },
+          { text: '平台', link: '/zh-cn/platforms' },
+          { text: '联系我们', link: '/zh-cn/contact' }
         ],
         sidebar: [
           {
@@ -47,7 +56,10 @@ export default {
               { text: '首页', link: '/zh-cn/' },
               { text: '关于杨宝诚', link: '/zh-cn/about-joe' },
               { text: '团队', link: '/zh-cn/team' },
-              { text: '研究', link: '/zh-cn/research' }
+              { text: '研究', link: '/zh-cn/research' },
+              { text: '新闻', link: '/zh-cn/news' },
+              { text: '平台', link: '/zh-cn/platforms' },
+              { text: '联系我们', link: '/zh-cn/contact' }
             ]
           }
         ]

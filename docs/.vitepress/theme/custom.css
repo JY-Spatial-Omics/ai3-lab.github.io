@@ -1,4 +1,4 @@
-/* Social Media Buttons */
+/* Social Media Buttons - Square Icon Style */
 .social-buttons {
   display: flex;
   flex-wrap: wrap;
@@ -8,65 +8,27 @@
 }
 
 .social-btn {
-  display: inline-flex;
-  align-items: center;
-  padding: 8px 16px;
-  border-radius: 6px;
+  display: inline-block;
   text-decoration: none;
-  font-weight: 500;
-  font-size: 14px;
   transition: all 0.2s ease;
-  border: 1px solid transparent;
+  border-radius: 4px;
+  overflow: hidden;
 }
 
 .social-btn:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
-.social-btn.astar {
-  background-color: #0066cc;
-  color: white;
+.social-btn img {
+  width: 40px;
+  height: 40px;
+  display: block;
+  transition: all 0.2s ease;
 }
 
-.social-btn.astar:hover {
-  background-color: #0052a3;
-}
-
-.social-btn.linkedin {
-  background-color: #0077b5;
-  color: white;
-}
-
-.social-btn.linkedin:hover {
-  background-color: #005885;
-}
-
-.social-btn.researchgate {
-  background-color: #00d4aa;
-  color: white;
-}
-
-.social-btn.researchgate:hover {
-  background-color: #00b894;
-}
-
-.social-btn.scholar {
-  background-color: #4285f4;
-  color: white;
-}
-
-.social-btn.scholar:hover {
-  background-color: #3367d6;
-}
-
-.social-btn.orcid {
-  background-color: #a6ce39;
-  color: white;
-}
-
-.social-btn.orcid:hover {
-  background-color: #8fb82a;
+.social-btn:hover img {
+  opacity: 0.8;
 }
 
 /* Team Member Grid - Facet Wrap Style */
@@ -146,9 +108,9 @@
     gap: 8px;
   }
   
-  .social-btn {
-    padding: 6px 12px;
-    font-size: 13px;
+  .social-btn img {
+    width: 36px;
+    height: 36px;
   }
   
   .team-member-grid {
@@ -168,14 +130,13 @@
 
 @media (max-width: 480px) {
   .social-buttons {
-    flex-direction: column;
-    align-items: center;
+    justify-content: center;
+    gap: 6px;
   }
   
-  .social-btn {
-    width: 100%;
-    max-width: 200px;
-    justify-content: center;
+  .social-btn img {
+    width: 32px;
+    height: 32px;
   }
   
   .team-member-grid {
@@ -201,4 +162,79 @@
 
 .dark .team-member:hover {
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Platform Grid Layout */
+.platform-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+  margin: 24px 0;
+}
+
+.platform-item {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 12px;
+  padding: 24px;
+  transition: all 0.3s ease;
+}
+
+.platform-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border-color: var(--vp-c-brand);
+}
+
+.platform-header h3 {
+  margin: 0 0 8px 0;
+  color: var(--vp-c-text-1);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.platform-subtitle {
+  color: var(--vp-c-brand);
+  font-weight: 500;
+  font-size: 14px;
+  margin: 0 0 16px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.platform-content p {
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.platform-content ul {
+  color: var(--vp-c-text-2);
+  padding-left: 20px;
+}
+
+.platform-content li {
+  margin-bottom: 4px;
+}
+
+/* Dark mode adjustments for platforms */
+.dark .platform-item {
+  background: var(--vp-c-bg-soft);
+  border-color: var(--vp-c-border);
+}
+
+.dark .platform-item:hover {
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Responsive design for platforms */
+@media (max-width: 768px) {
+  .platform-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .platform-item {
+    padding: 20px;
+  }
 }

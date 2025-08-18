@@ -3,11 +3,21 @@
 ## Joe Poh Sheng YEONG, MBBS, PhD, FRCPath
 
 <div class="social-buttons">
-  <a href="https://research.a-star.edu.sg/researcher/joe-yeong/" target="_blank" class="social-btn astar">A*STAR</a>
-  <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" class="social-btn linkedin">LinkedIn</a>
-  <a href="https://www.researchgate.net/profile/Joe-Yeong-2" target="_blank" class="social-btn researchgate">ResearchGate</a>
-  <a href="https://scholar.google.com/citations?user=zSDQ4D8AAAAJ" target="_blank" class="social-btn scholar">Google Scholar</a>
-  <a href="https://orcid.org/0000-0002-6674-7153" target="_blank" class="social-btn orcid">ORCID</a>
+  <a href="https://research.a-star.edu.sg/researcher/joe-yeong/" target="_blank" class="social-btn">
+    <img src="/images/social/astar-icon.svg" alt="A*STAR Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" class="social-btn">
+    <img src="/images/social/linkedin-icon.svg" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Joe-Yeong-2" target="_blank" class="social-btn">
+    <img src="/images/social/researchgate-icon.svg" alt="ResearchGate Profile" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=zSDQ4D8AAAAJ" target="_blank" class="social-btn">
+    <img src="/images/social/scholar-icon.svg" alt="Google Scholar Profile" />
+  </a>
+  <a href="https://orcid.org/0000-0002-6674-7153" target="_blank" class="social-btn">
+    <img src="/images/social/orcid-icon.svg" alt="ORCID Profile" />
+  </a>
 </div>
 
 ### Principal Investigator & Laboratory Director
