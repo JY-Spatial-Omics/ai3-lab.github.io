@@ -2,7 +2,7 @@
 
 ## Laboratory of Joe Poh Sheng YEONG
 
-Welcome to the official website of Joe Yeong's laboratory, where we focus on cutting-edge spatial omics research and innovative approaches to understanding biological systems.
+Welcome to the official website of Joe Yeong's laboratory, where we focus on cutting-edge tumor pathology, spatial multi-omics, AI research and innovative approaches to understanding biological systems.
 
 ### Our Mission
 
@@ -11,11 +11,11 @@ We are dedicated to advancing the field of spatial omics through innovative rese
 ### Research Focus
 
 Our laboratory specializes in:
-- Spatial transcriptomics and genomics
-- Multi-omics data integration
-- Computational biology and bioinformatics
+- Tumor pathology
+- Multi-omics and spatial multiomics data integration
 - Biomarker discovery and validation
 - Translational research applications
+
 
 ### Latest News
 

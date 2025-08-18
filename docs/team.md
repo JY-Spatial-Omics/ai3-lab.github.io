@@ -9,11 +9,26 @@
 
 Leading our research efforts in spatial omics and computational biology.
 
-### Research Staff
+### Research Scientist and Research Officers
+
+CHONG Li Yen
+Rachel FINCHAM
+Denise GOH
+LI Ruisi
+LIM Xinru
+NEO Zhen Wei
+Parthiban PERIASAMY
+Timthony WANG
+WU Yang
+YE Jiangfeng
+
 
 *[Team member information to be added]*
 
 ### Graduate Students
+
+NIE Lanqi
+ZHANG Siyu
 
 *[Graduate student information to be added]*
 
@@ -21,20 +36,6 @@ Leading our research efforts in spatial omics and computational biology.
 
 *[Undergraduate student information to be added]*
 
-### Alumni
-
-*[Alumni information to be added]*
-
 ---
 
-## Join Our Team
 
-We are always looking for motivated researchers to join our laboratory. If you are interested in spatial omics research and computational biology, please contact us to discuss potential opportunities.
-
-### Current Openings
-
-*[Current position openings to be listed]*
-
-### How to Apply
-
-For inquiries about joining our laboratory, please send your CV and a brief cover letter describing your research interests and career goals.
