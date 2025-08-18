@@ -17,7 +17,19 @@
   </div>
 </div>
 
-### Research Staff
+### Research Scientist and Research Officers
+
+CHONG Li Yen
+Rachel FINCHAM
+Denise GOH
+LI Ruisi
+LIM Xinru
+NEO Zhen Wei
+Parthiban PERIASAMY
+Timthony WANG
+WU Yang
+YE Jiangfeng
+
 
 <div class="team-member-grid">
   <div class="team-member">
@@ -44,38 +56,33 @@
 
 ### Graduate Students
 
+NIE Lanqi
+ZHANG Siyu
+
 <div class="team-member-grid">
   <div class="team-member">
     <div class="member-photo">
-      <img src="/images/team/placeholder.svg" alt="Graduate Student" />
+      <img src="/images/team/placeholder.svg" alt="NIE Lanqi" />
     </div>
     <div class="member-info">
-      <h4>Graduate Student 1</h4>
-      <p class="member-title">PhD Candidate</p>
+      <h4>NIE Lanqi</h4>
+      <p class="member-title">Graduate Student</p>
       <p class="member-description">Research focus on multi-omics integration.</p>
     </div>
   </div>
   <div class="team-member">
     <div class="member-photo">
-      <img src="/images/team/placeholder.svg" alt="Graduate Student" />
+      <img src="/images/team/placeholder.svg" alt="ZHANG Siyu" />
     </div>
     <div class="member-info">
-      <h4>Graduate Student 2</h4>
-      <p class="member-title">PhD Candidate</p>
+      <h4>ZHANG Siyu</h4>
+      <p class="member-title">Graduate Student</p>
       <p class="member-description">Working on biomarker discovery applications.</p>
     </div>
   </div>
-  <div class="team-member">
-    <div class="member-photo">
-      <img src="/images/team/placeholder.svg" alt="Graduate Student" />
-    </div>
-    <div class="member-info">
-      <h4>Graduate Student 3</h4>
-      <p class="member-title">Master's Student</p>
-      <p class="member-description">Developing computational analysis pipelines.</p>
-    </div>
-  </div>
 </div>
+
+*[Additional graduate student information to be added]*
 
 ### Undergraduate Students
 
@@ -127,16 +134,5 @@
   </div>
 </div>
 
+*[Alumni information to be added]*
 ---
-
-## Join Our Team
-
-We are always looking for motivated researchers to join our laboratory. If you are interested in spatial omics research and computational biology, please contact us to discuss potential opportunities.
-
-### Current Openings
-
-*[Current position openings to be listed]*
-
-### How to Apply
-
-For inquiries about joining our laboratory, please send your CV and a brief cover letter describing your research interests and career goals.
