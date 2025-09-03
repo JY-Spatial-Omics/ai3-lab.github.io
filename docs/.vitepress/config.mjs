@@ -1,6 +1,7 @@
 export default {
   title: 'Joe Yeong Lab',
   description: 'Laboratory of Joe Poh Sheng YEONG - Spatial Omics Research',
+  base: '/joe-yeong-vitepress.github.io/',
   
   locales: {
     root: {
