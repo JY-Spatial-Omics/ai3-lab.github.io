@@ -7,10 +7,10 @@
 <div class="team-member-grid">
   <div class="team-member">
     <div class="member-photo">
-      <img src="/images/team/joe-yeong.svg" alt="Dr. Joe Poh Sheng YEONG" />
+      <img src="/images/team/joe-yeong.svg" alt="Dr. Joe Poh Sheng YEONG, MBBS, PhD, MRCS" />
     </div>
     <div class="member-info">
-      <h4>Dr. Joe Poh Sheng YEONG</h4>
+      <h4>Dr. Joe Poh Sheng YEONG, MD, PhD, FRCPath</h4>
       <p class="member-title">Principal Investigator & Laboratory Director</p>
       <p class="member-description">Leading our research efforts in spatial omics and computational biology.</p>
     </div>
