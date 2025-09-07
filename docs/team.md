@@ -153,7 +153,7 @@
 <div class="member-avatar">
 <div class="member-placeholder">RF</div>
 </div>
-<div class="member-name">Rachel Elizabeth Ann Fincham, PhD</div>
+<div class="member-name">Rachel Elizabeth Ann FINCHAM, PhD</div>
 <div class="member-role">Research Scientist</div>
 <div class="member-research">Computational biology and data analysis</div>
 <div class="social-links">
@@ -190,7 +190,7 @@
 <div class="member-avatar">
 <div class="member-placeholder">YJ</div>
 </div>
-<div class="member-name">YE Jiangfeng, Mpedi, PhD</div>
+<div class="member-name">YE Jiangfeng, MMed, PhD</div>
 <div class="member-role">Research Scientist</div>
 <div class="member-research">Medical research and clinical applications</div>
 <div class="social-links">
@@ -352,6 +352,34 @@
 <div class="member-name">NG Kai Soon, MSc</div>
 <div class="member-role">Senior Research Officer</div>
 <div class="member-research">Animal models, Molecular and cellular biology</div>
+<div class="social-links">
+</div>
+</div>
+
+</div>
+
+## Visiting Scholars
+
+<div class="team-grid">
+
+<div class="member-card">
+<div class="member-avatar">
+<div class="member-placeholder">WZ</div>
+</div>
+<div class="member-name">WANG Zhengyang, MD</div>
+<div class="member-role">Visiting Scholar</div>
+<div class="member-research">Clinical research and medical applications</div>
+<div class="social-links">
+</div>
+</div>
+
+<div class="member-card">
+<div class="member-avatar">
+<div class="member-placeholder">ZZ</div>
+</div>
+<div class="member-name">ZHU Zhu, MD</div>
+<div class="member-role">Visiting Scholar</div>
+<div class="member-research">Medical research and clinical studies</div>
 <div class="social-links">
 </div>
 </div>
