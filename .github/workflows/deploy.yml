@@ -46,7 +46,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://joe-yeong-vitepress.github.io/
+      url: https://jy-spatial-omics.github.io/
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
