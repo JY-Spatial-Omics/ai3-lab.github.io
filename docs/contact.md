@@ -12,7 +12,7 @@ Integrative Biology for Theranostics (JY Lab)
 Singapore 138673
 
 ### Contact Details
-- **Email**: yeongps@a-star.edu.sg, joe.yeong.p.s@sgh.com.sg
+- **Email**: [yeongps@a-star.edu.sg](mailto:yeongps@a-star.edu.sg), [joe.yeong.p.s@sgh.com.sg](mailto:joe.yeong.p.s@sgh.com.sg)
 - **Phone**: +65 6586 9527
 
 ### Office Hours
@@ -34,9 +34,9 @@ We typically respond to inquiries within 2-3 business days.
 
 ### Persons to contact when in travel
 
-* Spatial-omics, multiplex IHC, IHC related: [Craig JOSEPH](craig_joseph@imcb.a-star.edu.sg)
-* Lab and admin matters: [LIM Xinru](limxr@imcb.a-star.edu.sg)
-* Manuscripts, grants general scientific docs matters: [Denise GOH](denise_goh@imcb.a-star.edu.sg)
+* Spatial-omics, multiplex IHC, IHC related: [Craig JOSEPH](mailto:craig_joseph@imcb.a-star.edu.sg)
+* Lab and admin matters: [LIM Xinru](mailto:limxr@imcb.a-star.edu.sg)
+* Manuscripts, grants general scientific docs matters: [Denise GOH](mailto:denise_goh@imcb.a-star.edu.sg)
 
 ---
 
