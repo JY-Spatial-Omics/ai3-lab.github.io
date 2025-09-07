@@ -6,10 +6,10 @@
 **Principal Investigator & Laboratory Director**
 
 ### Office Location and Mailing Address
-Integrative Biology for Theranostics (JY Lab)
-#05-01 Proteos
-61 Biopolis Drive
-Singapore 138673
+Integrative Biology for Theranostics (JY Lab)  
+#05-01 Proteos  
+61 Biopolis Drive  
+Singapore 138673  
 
 ### Contact Details
 - **Email**: [yeongps@a-star.edu.sg](mailto:yeongps@a-star.edu.sg), [joe.yeong.p.s@sgh.com.sg](mailto:joe.yeong.p.s@sgh.com.sg)
