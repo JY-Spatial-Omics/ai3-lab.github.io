@@ -114,6 +114,9 @@
 <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
+<a href="https://orcid.org/0000-0002-6674-7153" target="_blank" class="ORCID">
+  <img src="/images/social/orcid-icon.svg" alt="ORCID Profile" />
+</a>
 <a href="https://www.researchgate.net/profile/Joe-Yeong-2" target="_blank" title="ResearchGate">
 <img src="/images/social/researchgate-icon.svg" alt="ResearchGate" />
 </a>
