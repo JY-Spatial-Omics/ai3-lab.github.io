@@ -331,6 +331,28 @@
 </div>
 </div>
 
+<div class="member-card">
+<div class="member-avatar">
+<div class="member-placeholder">TW</div>
+</div>
+<div class="member-name">Timthony Obi WANG, BSc</div>
+<div class="member-role">Research Officer</div>
+<div class="member-research">AI-modeling, AI-driven histopathology</div>
+<div class="social-links">
+</div>
+</div>
+
+<div class="member-card">
+<div class="member-avatar">
+<div class="member-placeholder">KN</div>
+</div>
+<div class="member-name">NG Kai Soon, MSc</div>
+<div class="member-role">Senior Research Officer</div>
+<div class="member-research">Animal models, Molecular and cellular biology</div>
+<div class="social-links">
+</div>
+</div>
+
 </div>
 
 ---
