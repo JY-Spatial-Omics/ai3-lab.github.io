@@ -46,7 +46,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://joe-yeong-vitepress.github.io/
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
