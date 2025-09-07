@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Cd-3tpCq.js";const p=JSON.parse('{"title":"我们的团队","description":"","frontmatter":{},"headers":[],"relativePath":"zh-cn/team.md","filePath":"zh-cn/team.md"}'),h={name:"zh-cn/team.md"};function i(n,a,l,d,s,c){return r(),t("div",null,a[0]||(a[0]=[o("",20)]))}const u=e(h,[["render",i]]);export{p as __pageData,u as default};
