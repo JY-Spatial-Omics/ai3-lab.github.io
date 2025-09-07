@@ -5,26 +5,18 @@
 ### Dr. Joe Poh Sheng YEONG
 **Principal Investigator & Laboratory Director**
 
-### Office Location
-*[Office address and building information to be updated]*
+### Office Location and Mailing Address
+Integrative Biology for Theranostics (JY Lab)
+#05-01 Proteos
+61 Biopolis Drive
+Singapore 138673
 
 ### Contact Details
-- **Email**: *[Laboratory email to be provided]*
-- **Phone**: *[Office phone number to be provided]*
-- **Fax**: *[Fax number if applicable]*
+- **Email**: yeongps@a-star.edu.sg, joe.yeong.p.s@sgh.com.sg
+- **Phone**: +65 6586 9527
 
 ### Office Hours
-*[Office hours and availability to be specified]*
-
----
-
-## Mailing Address
-
-**Joe Yeong Laboratory**  
-*[Complete mailing address to be provided]*  
-*[Institution name]*  
-*[City, State/Province, Postal Code]*  
-*[Country]*
+9am - 5pm SGT (GMT +8), Mon-Fri, except Singapore public holidays
 
 ---
 
@@ -40,17 +32,23 @@ For research collaborations, questions about our work, or potential partnerships
 ### Response Time
 We typically respond to inquiries within 2-3 business days.
 
+### Persons to contact when in travel
+
+* Spatial-omics, multiplex IHC, IHC related: [Craig JOSEPH](craig_joseph@imcb.a-star.edu.sg)
+* Lab and admin matters: [LIM Xinru](limxr@imcb.a-star.edu.sg)
+* Manuscripts, grants general scientific docs matters: [Denise GOH](denise_goh@imcb.a-star.edu.sg)
+
 ---
 
 ## Directions
 
+*[Google Maps widget will be embedded into the webpage]*
+
 *[Directions to the laboratory location will be provided]*
 
 ### Public Transportation
-*[Public transportation options and directions]*
 
-### Parking Information
-*[Parking availability and instructions]*
+Exit D (Biopolis), Buona Vista MRT station
 
 ---
 
@@ -64,5 +62,3 @@ Stay connected with our laboratory through our online channels:
 - **Academic Profiles**: [Google Scholar](https://scholar.google.com/citations?user=zSDQ4D8AAAAJ), [ORCID](https://orcid.org/0000-0002-6674-7153)
 
 ---
-
-*Contact information will be updated with specific details for the Joe Yeong Laboratory.*
