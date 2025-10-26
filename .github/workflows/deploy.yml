@@ -46,7 +46,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://jy-spatial-omics.github.io/
+      url: https://ai3-lab.github.io/
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
