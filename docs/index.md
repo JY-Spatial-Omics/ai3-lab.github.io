@@ -1,21 +1,17 @@
-# Welcome to Joe Yeong Lab
+# AI^3: AI + Immunology, Innovation, Intelligence
 
-## Laboratory of Joe Poh Sheng YEONG
+## Welcome to AI in Immunology Laboratory of Prof. Joe Poh Sheng YEONG
 
-Welcome to the official website of Joe Yeong's laboratory, where we focus on cutting-edge tumor pathology, spatial multi-omics, AI research and innovative approaches to understanding biological systems.
-
-### Our Mission
-
-We are dedicated to advancing the field of spatial omics through innovative research, collaborative partnerships, and the development of novel methodologies that bridge the gap between molecular biology and spatial analysis.
+We focus on cutting-edge researches on AI in immunology, tumor pathology, spatial multi-omics to understand tumor theranostics (diagnostics + therapy).
 
 ### Research Focus
 
 Our laboratory specializes in:
-- Tumor pathology
-- Multi-omics and spatial multiomics data integration
-- Biomarker discovery and validation
-- Translational research applications
 
+- Human experts and AI models in tumor pathology
+- Multi-omics and spatial multi-omics integrative data analysis
+- Biomarker discovery and validation
+- Translational research applications - AIDD, cancer vaccine development
 
 ### Latest News
 
