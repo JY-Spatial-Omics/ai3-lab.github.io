@@ -1,44 +1,107 @@
 # News & Updates
 
+<style>
+.news-item {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 2rem;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.news-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.news-image {
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 3px solid #e9ecef;
+}
+
+.news-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.news-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.news-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.news-date {
+  font-size: 0.9rem;
+  color: #6c757d;
+  margin-bottom: 1rem;
+}
+
+.news-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.news-links a {
+  color: #3b82f6;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.news-links a:hover {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .news-item {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
 ## Latest News
 
-### Recent Publications
+<div class="news-item">
+<div class="news-image">
+<img src="/images/news/2025-nature-spatial-awareness.png" alt="Nature Spatial Awareness Research" />
+</div>
+<div class="news-content">
+<div class="news-title">AI System Developed in Singapore to Predict Liver Cancer Recurrence</div>
+<div class="news-date">July 2025</div>
+<div class="news-links">
 
-*[Recent publications and research updates will be posted here]*
+**Singapore researchers develop AI tool to predict liver cancer recurrence**
+- [Eureka Alert](https://www.eurekalert.org/news-releases/1091898)
+- [SG Press Centre](https://www.sgpc.gov.sg/detail?url=/media_releases/astar/press_release/P-20250721-1)
 
-### Conference Presentations
+**AI system developed in Singapore could help predict liver cancer recurrence**
+- [Straits Times](https://www.straitstimes.com/singapore/health/ai-system-developed-in-singapore-could-help-predict-liver-cancer-recurrence)
+- [Singapore General Hospital](https://www.sgh.com.sg/news/patient-care/ai-system-developed-in-singapore-could-help-predict-liver-cancer)
 
-*[Conference presentations and talks will be listed here]*
+**本地研发人工智能评分系统 提前预测肝癌患者复发风险**
+- [联合早报](https://www.zaobao.com.sg/news/singapore/story20250721-7179016)
 
-### Awards & Recognition
+**Whole in one**
+- [A*STAR Research](https://research.a-star.edu.sg/articles/features/whole-in-one/)
 
-*[Awards and recognition received by lab members will be announced here]*
-
-### Laboratory Updates
-
-*[General laboratory news and updates will be shared here]*
-
----
-
-## Announcements
-
-### Upcoming Events
-
-*[Information about upcoming seminars, workshops, and events]*
-
-### Job Openings
-
-*[Current job openings and recruitment information]*
-
-### Collaborations
-
-*[New collaborations and partnerships]*
-
----
-
-## Archive
-
-*[Older news items will be archived here]*
+</div>
+</div>
+</div>
 
 ---
 
