@@ -111,17 +111,20 @@
 <div class="member-role">Principal Investigator</div>
 <div class="member-research">Leading research in spatial omics and computational biology</div>
 <div class="social-links">
-<a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
 <a href="https://orcid.org/0000-0002-6674-7153" target="_blank" class="ORCID">
   <img src="/images/social/orcid-icon.svg" alt="ORCID Profile" />
+</a>
+<a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" title="LinkedIn">
+<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
 <a href="https://www.researchgate.net/profile/Joe-Yeong-2" target="_blank" title="ResearchGate">
 <img src="/images/social/researchgate-icon.svg" alt="ResearchGate" />
 </a>
 <a href="https://scholar.google.com/citations?user=zSDQ4D8AAAAJ" target="_blank" title="Google Scholar">
 <img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
+</a>
+<a href="mailto:yeongps@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
 </div>
@@ -146,6 +149,9 @@
 <a href="https://orcid.org/0000-0002-1837-8330" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
 </a>
+<a href="mailto:wu_yang@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -155,13 +161,16 @@
 </div>
 <div class="member-name">Rachel Elizabeth Ann FINCHAM, PhD</div>
 <div class="member-role">Research Scientist</div>
-<div class="member-research">Computational biology and data analysis</div>
+<div class="member-research">AI research and computational analysis</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/rachel-fincham/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0000-0002-4699-5002" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
+</a>
+<a href="mailto:fincham.rachel.e.a@sgh.com.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
 </div>
@@ -172,7 +181,7 @@
 </div>
 <div class="member-name">Parthiban PERIASAMY, PhD</div>
 <div class="member-role">Research Scientist</div>
-<div class="member-research">Biomedical research and data analysis</div>
+<div class="member-research">Proteomics wet-lab and bioinformatic analysis</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/parthiban-periasamy/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -183,6 +192,9 @@
 <a href="https://scholar.google.com/citations?user=OEZYXTgAAAAJ" target="_blank" title="Google Scholar">
 <img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
 </a>
+<a href="mailto:parthiban_periasamy@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -192,10 +204,13 @@
 </div>
 <div class="member-name">YE Jiangfeng, MMed, PhD</div>
 <div class="member-role">Research Scientist</div>
-<div class="member-research">Medical research and clinical applications</div>
+<div class="member-research">Biostatistics, Public Health</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/jiangfeng-ye-5b59134a/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
+</a>
+<a href="mailto:ye_jf@nus.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
 </div>
@@ -220,6 +235,9 @@
 <a href="https://orcid.org/0009-0004-9582-9299" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
 </a>
+<a href="mailto:neo.zhen.wei@sgh.com.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -236,6 +254,9 @@
 </a>
 <a href="https://orcid.org/0000-0002-4623-4633" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
+</a>
+<a href="mailto:chong_li_yen@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
 </div>
@@ -260,6 +281,9 @@
 <a href="https://scholar.google.com/citations?user=I8aRZb4AAAAJ" target="_blank" title="Google Scholar">
 <img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
 </a>
+<a href="mailto:denise_goh@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -269,7 +293,7 @@
 </div>
 <div class="member-name">LIM Xinru, BSc</div>
 <div class="member-role">Senior Research Officer</div>
-<div class="member-research">Research support and laboratory operations</div>
+<div class="member-research">Research Administration, Ageing and immunology studies</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/xinru-l-2435a6138/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -280,6 +304,9 @@
 <a href="https://www.researchgate.net/profile/Xinru_Lim" target="_blank" title="ResearchGate">
 <img src="/images/social/researchgate-icon.svg" alt="ResearchGate" />
 </a>
+<a href="mailto:limxr@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -287,15 +314,18 @@
 <div class="member-avatar">
 <div class="member-placeholder">CJ</div>
 </div>
-<div class="member-name">Craig Ryan Cecil JOSEPH</div>
+<div class="member-name">Craig Ryan Cecil JOSEPH, BSc (Biology), BSc (Psy)</div>
 <div class="member-role">Senior Research Officer</div>
-<div class="member-research">Research operations and technical support</div>
+<div class="member-research">Service Platform Manager, Histopathology, Spatial Biology</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/craig-ryan-cecil-joseph/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0009-0004-5326-9692" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
+</a>
+<a href="mailto:craig_joseph@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
 </div>
@@ -304,15 +334,18 @@
 <div class="member-avatar">
 <div class="member-placeholder">FW</div>
 </div>
-<div class="member-name">Felicia WEE</div>
+<div class="member-name">Felicia WEE, BSc</div>
 <div class="member-role">Senior Research Officer</div>
-<div class="member-research">Laboratory research and quality assurance</div>
+<div class="member-research">Histopathology, AI-driven histopathology, spatial proteomics analysis</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/felicia-wee-b284b6156/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0009-0004-7624-3751" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
+</a>
+<a href="mailto:feliwee@gmail.com" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
 </div>
@@ -331,6 +364,9 @@
 <a href="https://orcid.org/0009-0003-5576-8228" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
 </a>
+<a href="mailto:s230036@ntu.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -342,6 +378,9 @@
 <div class="member-role">Research Officer</div>
 <div class="member-research">AI-modeling, AI-driven histopathology</div>
 <div class="social-links">
+<a href="mailto:timothy_wang@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -349,10 +388,13 @@
 <div class="member-avatar">
 <div class="member-placeholder">KN</div>
 </div>
-<div class="member-name">NG Kai Soon, MSc</div>
-<div class="member-role">Senior Research Officer</div>
+<div class="member-name">NG Kai Soon, BSc</div>
+<div class="member-role">Research Officer</div>
 <div class="member-research">Animal models, Molecular and cellular biology</div>
 <div class="social-links">
+<a href="mailto:ng_kai_soon@a-star.edu.sg" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -368,8 +410,14 @@
 </div>
 <div class="member-name">WANG Zhengyang, MD</div>
 <div class="member-role">Visiting Scholar</div>
-<div class="member-research">Clinical research and medical applications</div>
+<div class="member-research">Histopathology, Pathogenesis of Liver Diseases</div>
 <div class="social-links">
+<a href="https://orcid.org/0000-0001-6045-2269" target="_blank" title="ORCID">
+<img src="/images/social/orcid-icon.svg" alt="ORCID" />
+</a>
+<a href="mailto:zywang0318@zzu.edu.cn" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
@@ -379,8 +427,14 @@
 </div>
 <div class="member-name">ZHU Zhu, MD</div>
 <div class="member-role">Visiting Scholar</div>
-<div class="member-research">Medical research and clinical studies</div>
+<div class="member-research">Histopathology</div>
 <div class="social-links">
+<a href="https://orcid.org/0000-0002-3117-2548" target="_blank" title="ORCID">
+<img src="/images/social/orcid-icon.svg" alt="ORCID" />
+</a>
+<a href="mailto:zhuzhu0501@zzu.edu.cn" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
 </div>
 </div>
 
