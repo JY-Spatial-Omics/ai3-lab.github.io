@@ -78,11 +78,11 @@
 
 <div class="news-item">
 <div class="news-image">
-<img src="/images/news/2025-nature-spatial-awareness.png" alt="Nature Spatial Awareness Research" />
+<img src="/images/news/2025-03-12-nature-spatial-awareness.png" alt="Nature Spatial Awareness Research" />
 </div>
 <div class="news-content">
-<div class="news-title">AI System Developed in Singapore to Predict Liver Cancer Recurrence</div>
-<div class="news-date">July 2025</div>
+<div class="news-title">Spatial immune scoring system predicts hepatocellular carcinoma recurrence</div>
+<div class="news-date">March 12th, 2025</div>
 <div class="news-links">
 
 **Singapore researchers develop AI tool to predict liver cancer recurrence**
