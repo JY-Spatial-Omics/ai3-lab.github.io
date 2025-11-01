@@ -31,7 +31,7 @@ export default {
     logo: '/logo.png',
     
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/JY-Spatial-Omics' }
+      { icon: 'github', link: 'https://github.com/ai3-lab/ai3-lab.github.io' }
     ],
 
     footer: {
