@@ -23,6 +23,7 @@
   border-radius: 8px;
   overflow: hidden;
   border: 3px solid #e9ecef;
+  align-self: start;
 }
 
 .news-image img {
