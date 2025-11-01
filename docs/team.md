@@ -111,6 +111,9 @@
 <div class="member-role">Principal Investigator</div>
 <div class="member-research">Leading research in spatial omics and computational biology</div>
 <div class="social-links">
+<a href="https://orcid.org/0000-0002-6674-7153" target="_blank" class="ORCID">
+  <img src="/images/social/orcid-icon.svg" alt="ORCID Profile" />
+</a>
 <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
