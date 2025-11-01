@@ -29,6 +29,12 @@
   width: 100%;
   height: auto;
   object-fit: cover;
+  display: block;
+}
+
+.news-image a {
+  display: block;
+  line-height: 0;
 }
 
 .news-content {
@@ -42,6 +48,17 @@
   font-weight: bold;
   color: #2c3e50;
   margin-bottom: 1rem;
+}
+
+.news-title a {
+  color: #2c3e50;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.news-title a:hover {
+  color: #3b82f6;
+  text-decoration: underline;
 }
 
 .news-date {
@@ -78,10 +95,12 @@
 
 <div class="news-item">
 <div class="news-image">
+<a href="https://www.nature.com/nature/volumes/640/issues/8060" target="_blank">
 <img src="/images/news/2025-03-12-nature-spatial-awareness.png" alt="Nature Spatial Awareness Research" />
+</a>
 </div>
 <div class="news-content">
-<div class="news-title">Spatial immune scoring system predicts hepatocellular carcinoma recurrence</div>
+<div class="news-title"><a href="https://doi.org/10.1038/s41586-025-08668-x" target="_blank">Spatial immune scoring system predicts hepatocellular carcinoma recurrence</a></div>
 <div class="news-date">March 12th, 2025</div>
 <div class="news-links">
 
