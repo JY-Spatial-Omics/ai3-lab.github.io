@@ -406,7 +406,7 @@
 
 <div class="member-card">
 <div class="member-avatar">
-<div class="member-placeholder">WZ</div>
+<img src="/images/team/wang-zhengyang.jpg" alt="WANG Zhengyang" />
 </div>
 <div class="member-name">WANG Zhengyang, MD</div>
 <div class="member-role">Visiting Scholar</div>
@@ -423,7 +423,7 @@
 
 <div class="member-card">
 <div class="member-avatar">
-<div class="member-placeholder">ZZ</div>
+<img src="/images/team/zhu-zhu.jpg" alt="ZHU Zhu" />
 </div>
 <div class="member-name">ZHU Zhu, MD</div>
 <div class="member-role">Visiting Scholar</div>
@@ -433,6 +433,29 @@
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
 </a>
 <a href="mailto:zhuzhu0501@zzu.edu.cn" target="_blank" title="Email">
+<img src="/images/social/email-icon.svg" alt="Email" />
+</a>
+</div>
+</div>
+
+</div>
+
+## PhD Students
+
+<div class="team-grid">
+
+<div class="member-card">
+<div class="member-avatar">
+<img src="/images/team/you-ruochii.jpg" alt="YOU Ruochii" />
+</div>
+<div class="member-name">YOU Ruochii, BEng</div>
+<div class="member-role">PhD Student</div>
+<div class="member-research">Cancer preclinical models</div>
+<div class="social-links">
+<a href="https://scholar.google.com/citations?user=UdiWPvQAAAAJ" target="_blank" title="Google Scholar">
+<img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
+</a>
+<a href="mailto:yourc@a-star.edu.sg" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
