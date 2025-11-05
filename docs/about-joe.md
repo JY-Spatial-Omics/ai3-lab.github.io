@@ -90,12 +90,12 @@ References:
 
 | Year | Awards |
 |------|--------|
-| 2020 | A*STAR Career Development Award<br>- Featured in The Pathologist |
+| 2020 | A*STAR Career Development Award<br>Featured in The Pathologist |
 | 2021 | APEC ASPIRE Prize Award finalist (Representing Singapore) |
-| 2022 | Top Cited Author 2020-2021, Wiley<br>- Featured in Nature News<br>- Featured in Nature Podcast |
+| 2022 | Top Cited Author 2020-2021, Wiley<br>Featured in Nature News<br>Featured in Nature Podcast |
 | 2023 | Singapore-China government joint innovation call |
 | 2024 | World Immunotherapy Council Asian Chapter, Research Contribution Award<br>MedTech Actuator 2024 Finalist<br>World's Top 2% Scientist |
-| 2025 | World's Top 2% Scientist |
+| 2025 | World's Top 2% Scientist<br>Featured in Nature cover story |
 
 ### Professional Membership:
 - Co-founder World Immunotherapy Council Asian Chapter
