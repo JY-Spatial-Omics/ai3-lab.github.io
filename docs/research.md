@@ -36,9 +36,17 @@ We actively collaborate with researchers and institutions worldwide to advance o
 
 ### Funding
 
-Our research is supported by various funding agencies and institutions.
+Our research is supported by various funding agencies and institutions (Awarded >20M since 2017). 
+Awarded project funding includes: 
 
-*[Funding sources to be listed]*
+- NMRC LCG - Conquering Lung cancer Across all stages with Research and InnovatiON (CLARION)(Role: Theme PI)
+- NMRC LCG - Singapore lYMPHoma translatiONal studY (SYMPHONY) 2.0 (Role: Theme PI)
+- NMRC CIA - Developing an AI deep learning-based paThology solution for predictive biomArker predictioN for oncoloGy clinical trials allocation (DATANG) (Role: Lead PI)
+- NRF CRP - NICHES: NIChe-driven immunoevasion and metastasis in High-risk cancer subtypes for Effective Stratification (Role: Team PI)
+- NIH R01 - The roles of EBV-specific T cells in response to checkpoint blockade immunotherapy of EBV-driven nasopharygeal carcinoma (Role: Co-PI)
+- MOH CSA - Elucidating ImmuNe ReprogrammIng in NasopharynGeal CarcinoMA (ENIGMA) (Role: Co-PI)
+- A*STAR IAF-ICP - Systematic single-cell resolution analyses of the circulating celel milieu in cancer patients (Role: Lead  PI)
+- A*STAR IAF-ICP - To Develop an AI-powered, Scalable and High-throughput Imaging-based Assay for Identification of Immunogenic Tumour-associated Antigens for Cancer Vaccines (Role: Lead-PI)
 
 ---
 
