@@ -107,7 +107,8 @@
 <div class="member-avatar">
 <img src="/images/team/joe-yeong.jpg" alt="Joe Poh Sheng YEONG" />
 </div>
-<div class="member-name">Dr. Joe Poh Sheng YEONG, MD, PhD, MRCS</div>
+<div class="member-name">Dr. Joe Poh Sheng YEONG (MBBS, PhD, FRCPath)
+</div>
 <div class="member-role">Principal Investigator</div>
 <div class="member-research">Leading research in spatial omics and computational biology</div>
 <div class="social-links">
@@ -265,9 +266,9 @@
 <div class="member-avatar">
 <div class="member-placeholder">DG</div>
 </div>
-<div class="member-name">Denise GOH, BSc</div>
+<div class="member-name">Denise GOH, BSc (Hons)</div>
 <div class="member-role">Senior Research Officer</div>
-<div class="member-research">Laboratory research and data management</div>
+<div class="member-research">Scientific Communication and Research Management</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/denise-goh/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -293,7 +294,7 @@
 </div>
 <div class="member-name">LIM Xinru, BSc</div>
 <div class="member-role">Senior Research Officer</div>
-<div class="member-research">Research Administration, Ageing and immunology studies</div>
+<div class="member-research">Lab Manager, Research Administration, Ageing and immunology studies</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/xinru-l-2435a6138/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -390,7 +391,7 @@
 </div>
 <div class="member-name">NG Kai Soon, BSc</div>
 <div class="member-role">Research Officer</div>
-<div class="member-research">Animal models, Molecular and cellular biology</div>
+<div class="member-research">Molecular and Cellular Biology</div>
 <div class="social-links">
 <a href="mailto:ng_kai_soon@a-star.edu.sg" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
