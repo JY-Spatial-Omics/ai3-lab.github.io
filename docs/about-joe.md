@@ -23,11 +23,7 @@
 ### Principal Investigator & Laboratory Director
 ![pi-photo-mar-2024-joepohshengyeong](https://github.com/user-attachments/assets/341593a4-6cdc-42f7-873d-729627cd9358)
 
-Dr. Joe Yeong Poh Sheng has been listed as World Top 2% scientist since 2024. He is currently a Principal Investigator in the Institute of Molecular and Cell Biology (IMCB, A*STAR), as well as in the Department of Anatomical Pathology, Singapore General Hospital. He has underwent multidisciplinary training which includes clinical (MD), immunology (PhD) and histopathology (British Royal College of Pathologist, Fellowship and Mmed (Pathology)).
-
-Dr. Joe Yeong’s main research focus is to understand and overcome the resistance of cancer immunotherapy, by using advanced technologies and AI. As an immunopathologist, his key vision is to bridge immunologists and pathologists. He is a pioneer in spatial technologies, is experienced in translating assays to clinic, and has published >140 papers in the field (>100 invited talks internationally). His works on cancer immunology are included in multiple national & international funded studies as well as industry sponsored projects (>20 million dollars since 2017). 
-
-He serves as a committee member in the World Immunotherapy Council, Society for Immunotherapy of Cancer (SITC) and is one of the organizers for its 2019, 2023 & 2025 WIC Global Symposium as well as multiplex IF expert consensus meetings. He also serves as one of the founding-Program Chair of one of the largest AI medical Imaging conferences, CLINICCAI-MICCAI and is the founding board member of MICCAI SIG-ComPath. He  also have editorial roles of Nature Springer, JITC, JCO (ASCO) and World Scientific (Chief Editor). He serves as a Secretary (Executive) in Singapore Society of Oncology – Cancer Immunotherapy Consortium, Co-lead in Education/Diagnostic of Singhealth Duke-NUS Cell Therapy Centre as well as Advisor (Spatial Technology), Cancer Discovery Hub, National Cancer Centre. In 2023, he co-founded World Immunotherapy Council Asian Chapter for promoting tumor immunology and advancing cancer immunotherapy education, information and research across Asia. He is also a regular reviewer for top journals such as JITC, Mod Path, Lancet and Nature.
+Dr. Joe Yeong Poh Sheng has been listed as World Top 2% scientist since 2024. He is currently a Principal Investigator in the Institute of Molecular and Cell Biology (IMCB, A*STAR), as well as in the Department of Anatomical Pathology, Singapore General Hospital. He has underwent multidisciplinary training which includes clinical (MD), immunology (PhD) and histopathology (British Royal College of Pathologist, Fellowship and Mmed (Pathology)). Dr. Joe Yeong’s main research focus is to understand and overcome the resistance of cancer immunotherapy, by using advanced technologies and AI. As an immunopathologist, his key vision is to bridge immunologists and pathologists. He is a pioneer in spatial technologies, is experienced in translating assays to clinic, and has published >140 papers in the field (>100 invited talks internationally). His works on cancer immunology are included in multiple national & international funded studies as well as industry sponsored projects (>20 million dollars since 2017). 
 
 
 ### Current Positions
@@ -100,10 +96,8 @@ References:
 ### Professional Membership:
 - Co-founder World Immunotherapy Council Asian Chapter
 - Lead & Committee Member of Society for Immunotherapy for Cancer (SITC)
-- Committee Member Clinical Day (CLINICCAI) of International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI
 - Executive Secretary of Singapore Society of Oncology – Cancer immunotherapy consortium
 - Committee Member, Cancer Peak, Singapore General Hospital
-- Education/Diagnostics Co-Lead, SingHealth Duke-NUS Cell Therapy Centre
 - Membership of United States and Canada Academy of Pathology (USCAP)
 - Fellow of British Royal College of Pathologist (RCPath)
 - Membership of Pathology Society of Great Britain and Ireland (SocPath)
